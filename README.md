@@ -3,4 +3,4 @@ Merges Sp02 data specifically from multiple Nellcor™ Bedside SpO₂ Patient Mo
 
 Example files are provided for testing it out.
 
-![Screenshot](https://github.com/LeeWannacott/MYS-Mark-Your-Spreadsheet/blob/master/Mark-Your-Spreadsheet%20instructions.png)
+![Screenshot](https://github.com/LeeWannacott/Sp02-Data-Merger/blob/master/Infographic%20Sp02%20data%20merger..png)
