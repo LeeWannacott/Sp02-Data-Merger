@@ -1,5 +1,5 @@
 # Sp02-Data-Merger
-Merges Sp02 data specifically from multiple Nellcor™ Bedside SpO₂ Patient Monitoring System's. Sp02 data from multiple sensor can then be visualised using a visualization tool such as Tableau, Power Bi, etc.
+Merges Sp02 data specifically from multiple Nellcor™ Bedside SpO₂ Patient Monitoring System's. Sp02 data from multiple sensor's can then be visualised using a visualization tool such as Tableau, Power Bi, etc.
 
 Example files are provided in a folder for testing it out. 
 
